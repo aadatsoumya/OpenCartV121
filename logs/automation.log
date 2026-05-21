@@ -1,0 +1,959 @@
+2026-05-21 06:56:40 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 06:56:40 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 06:56:41 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 06:56:41 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 06:56:43 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 06:56:43 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 07:50:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:28 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:50:28 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:50:28 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:50:28 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:50:28 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:50:28 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:50:28 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:50:28 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:50:28 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:50:28 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:50:28 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:50:28 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:50:28 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:50:28 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:50:28 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 07:50:28 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:50:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:50:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:50:29 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:50:30 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:50:30 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 07:50:30 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 07:50:33 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 07:50:53 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:50:53 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:51:15 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:51:35 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:51:55 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:52:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:25 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:52:25 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:52:25 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:52:25 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:52:25 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:52:25 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:52:25 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:52:25 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:52:25 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:52:25 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:52:25 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:52:25 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:52:25 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:52:25 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:52:25 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:52:25 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 07:52:25 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 07:52:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 07:52:26 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 07:52:27 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 07:52:27 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 07:52:28 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 07:52:29 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 07:52:29 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:29 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:52:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:52:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:53 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:53:53 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:53:53 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:53:53 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:53:53 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:53:53 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:53:53 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:53:53 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:53:53 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:53:53 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:53:53 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:53:53 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:53:53 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:53:53 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:53:53 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:53:53 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:53:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:53:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:53:55 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:53:56 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:53:56 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 07:53:56 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 07:54:01 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 07:54:22 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:54:22 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:54:43 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:54:43 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:55:03 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:55:04 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:55:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:27 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:55:27 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:55:27 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:55:27 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:55:27 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:55:27 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:55:27 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 07:55:27 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:55:27 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 07:55:27 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:55:27 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 07:55:27 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:55:27 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 07:55:27 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:55:27 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 07:55:27 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 07:55:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 07:55:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 07:55:29 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:55:30 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 07:55:31 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 07:55:31 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 07:55:33 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 07:55:53 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 07:55:53 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:01:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:35 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:01:35 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:01:35 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:01:35 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:01:35 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:01:35 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:01:35 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:01:35 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:01:35 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:01:35 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:01:35 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:01:35 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:01:35 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:01:35 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:01:35 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 08:01:35 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 08:01:35 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 08:01:36 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 08:01:37 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:01:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:01:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:01:38 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:01:38 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:01:39 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:01:39 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:01:42 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:01:43 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:01:43 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:01:43 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:02:03 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:02:03 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:02:04 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:02:04 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:02:05 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:02:07 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:02:07 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:02:07 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:02:08 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:02:08 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:02:08 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:02:19 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:02:19 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:02:20 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:02:20 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:02:20 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:02:21 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:02:23 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:03:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:29 TRACE XBeanDebug:199 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:03:29 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:03:29 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:03:29 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:03:29 TRACE XBeanDebug:199 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:03:29 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:03:29 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2026-05-21 08:03:29 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:03:29 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2026-05-21 08:03:29 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:03:29 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2026-05-21 08:03:29 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:03:29 TRACE XBeanDebug:209 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2026-05-21 08:03:29 TRACE XBeanDebug:237 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:03:30 TRACE XBeanDebug:209 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle themefd26doctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle stylesheet5d8bdoctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctstylesheet4257type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctfonts6623type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctfont14d8type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctfills2c6ftype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctfill550ctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctborders0d66type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctborderf935type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctcellxfs1322type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctxf97f7type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctcellstylexfsa81ftype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctdxfsb26atype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle cttablestyles872ftype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle sstf81fdoctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctsst44f3type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctrsta472type
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle workbookec17doctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctworkbook83c3type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctsheets49fdtype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctsheet4dbetype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle strelationshipid1e94type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle worksheetf539doctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctworksheet530dtype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctcols627ctype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctcola95ftype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctsheetdata8408type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctrowdd39type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle ctcell842btype
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle stcellrefe4e0type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle cthyperlinks6416type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle cthyperlink0c85type
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle stxstringf179type
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:30 TRACE XBeanDebug:946 - Resolving type for handle stcelltypebf95type
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-05-21 08:03:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-05-21 08:03:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2026-05-21 08:03:31 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:03:32 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:03:32 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:03:32 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:03:36 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:03:37 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:03:37 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:03:37 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:03:57 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:03:57 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:03:57 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:03:57 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:03:58 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:04:00 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:04:00 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:04:01 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:04:01 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:04:01 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:04:02 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:04:12 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 08:04:12 INFO  TC003_LoginDDT:16 - ***Starting TC003_LoginDDT***
+2026-05-21 08:04:12 INFO  TC003_LoginDDT:21 - ***Clicked on My Account Link***
+2026-05-21 08:04:13 INFO  TC003_LoginDDT:23 - ***Clicked on Login Link***
+2026-05-21 08:04:13 INFO  TC003_LoginDDT:26 - ***Providing Login details***
+2026-05-21 08:04:13 INFO  TC003_LoginDDT:32 - ***Verifying MyAccount Page***
+2026-05-21 08:04:15 INFO  TC003_LoginDDT:54 - ***Finished  TC003_LoginDDT***
+2026-05-21 10:00:28 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:00:28 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:00:34 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:00:35 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:00:39 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:00:39 INFO  TC001_AccountRegistrationTest:38 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:00:39 INFO  TC001_AccountRegistrationTest:50 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:00:57 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:00:59 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:01:00 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:01:00 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:01:03 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:01:03 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 10:01:42 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:01:42 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:01:43 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:01:43 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:01:45 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:01:45 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 10:37:04 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:37:04 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:37:05 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:37:05 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:37:08 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:37:08 INFO  TC001_AccountRegistrationTest:38 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:37:08 INFO  TC001_AccountRegistrationTest:50 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:37:13 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:37:13 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:37:13 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:37:13 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:37:15 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:37:15 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 10:39:25 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:39:25 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:39:26 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:39:26 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:39:29 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:39:29 INFO  TC001_AccountRegistrationTest:38 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:39:29 INFO  TC001_AccountRegistrationTest:50 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:39:34 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:39:35 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:39:35 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:39:35 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:39:37 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:39:47 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 10:40:51 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:40:51 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:40:52 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:40:52 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:40:56 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:40:56 INFO  TC001_AccountRegistrationTest:38 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:40:56 INFO  TC001_AccountRegistrationTest:50 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:40:59 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:41:00 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:41:00 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:41:00 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:41:02 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:41:12 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 10:49:57 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:49:58 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:49:59 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:49:59 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:50:09 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:50:09 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:50:09 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:50:15 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:50:16 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:50:16 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:50:16 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:50:20 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:50:30 ERROR TC002_LoginTest:37 - ***Test failed***
+2026-05-21 10:50:30 DEBUG TC002_LoginTest:38 - ***Debug logs***
+2026-05-21 10:54:55 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 10:54:55 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 10:54:57 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 10:54:57 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 10:55:05 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 10:55:05 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 10:55:05 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 10:55:11 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 10:55:11 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 10:55:12 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 10:55:12 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 10:55:14 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 10:55:24 ERROR TC002_LoginTest:37 - ***Test failed***
+2026-05-21 10:55:24 DEBUG TC002_LoginTest:38 - ***Debug logs***
+2026-05-21 11:00:56 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 11:00:56 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 11:00:57 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 11:00:57 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 11:00:59 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 11:01:09 ERROR TC002_LoginTest:37 - ***Test failed***
+2026-05-21 11:01:09 DEBUG TC002_LoginTest:38 - ***Debug logs***
+2026-05-21 15:00:09 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 15:00:10 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 15:00:11 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 15:00:11 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 15:00:15 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 15:00:15 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 15:00:15 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 15:00:20 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 15:00:20 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 15:00:21 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 15:00:21 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 15:00:23 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 15:00:23 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 19:07:04 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 19:07:04 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 19:07:05 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 19:07:05 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 19:07:09 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 19:07:09 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 19:07:09 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 19:07:13 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 19:07:14 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 19:07:14 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 19:07:14 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 19:07:17 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 19:07:17 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 19:08:47 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 19:08:48 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 19:08:49 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 19:08:49 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 19:08:51 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 19:08:51 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 19:08:51 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 19:08:55 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 19:08:55 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 19:08:56 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 19:08:56 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 19:09:07 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 19:09:07 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 19:10:37 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 19:10:38 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 19:10:39 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 19:10:39 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 19:10:43 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 19:10:43 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 19:10:43 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 19:10:47 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 19:10:47 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 19:10:48 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 19:10:48 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 19:10:50 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 19:10:50 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 19:15:05 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 19:15:06 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 19:15:07 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 19:15:07 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 19:15:10 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 19:15:10 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 19:15:10 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 19:15:21 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 19:15:21 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 19:15:22 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 19:15:22 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 19:15:24 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 19:15:24 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
+2026-05-21 19:17:39 INFO  TC001_AccountRegistrationTest:15 - ***Starting TC001_AccountRegistrationTest***
+2026-05-21 19:17:39 INFO  TC001_AccountRegistrationTest:20 - ***Clicked on My Account Link***
+2026-05-21 19:17:40 INFO  TC001_AccountRegistrationTest:22 - ***Clicked on Register Link***
+2026-05-21 19:17:40 INFO  TC001_AccountRegistrationTest:25 - ***Providing customer details***
+2026-05-21 19:17:43 INFO  TC001_AccountRegistrationTest:36 - ***Validating expected message***
+2026-05-21 19:17:43 INFO  TC001_AccountRegistrationTest:39 - ***TC001_AccountRegistrationTest passed***
+2026-05-21 19:17:43 INFO  TC001_AccountRegistrationTest:51 - ***Finished TC001_AccountRegistrationTest***
+2026-05-21 19:17:49 INFO  TC002_LoginTest:16 - ***Starting TC002_LoginTest***
+2026-05-21 19:17:50 INFO  TC002_LoginTest:21 - ***Clicked on My Account Link***
+2026-05-21 19:17:50 INFO  TC002_LoginTest:23 - ***Clicked on Login Link***
+2026-05-21 19:17:50 INFO  TC002_LoginTest:26 - ***Providing Login details***
+2026-05-21 19:17:52 INFO  TC002_LoginTest:32 - ***Verifying MyAccount Page***
+2026-05-21 19:17:52 INFO  TC002_LoginTest:35 - ***TC002_LoginTest Passed***
